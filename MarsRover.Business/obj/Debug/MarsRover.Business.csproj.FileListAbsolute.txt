@@ -1,0 +1,6 @@
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.csprojAssemblyReference.cache
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Business.dll
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Business.pdb
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.dll
+C:\Users\CanK\Desktop\MarsRoverV1\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.pdb
